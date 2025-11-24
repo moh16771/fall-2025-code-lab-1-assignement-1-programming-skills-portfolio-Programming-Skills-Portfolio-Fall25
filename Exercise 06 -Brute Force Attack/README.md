@@ -1,12 +1,26 @@
-## Exercise 6: Brute Force Attack - 30 Marks
+def password_checker():
+    correct_password = "secret123"  # Define the correct password
+    max_attempts = 5
+    attempts = 0
+    
+    while attempts < max_attempts:
+        # Get password from user
+        user_input = input("Enter password: ")
+        
+        # Check if password is correct
+        if user_input == correct_password:
+            print("Access granted! Welcome.")
+            return  # Exit the function when correct password is entered
+        
+        # If wrong password
+        attempts += 1
+        remaining_attempts = max_attempts - attempts
+        
+        if remaining_attempts > 0:
+            print(f"Wrong password. You have {remaining_attempts} attempt(s) remaining.")
+        else:
+            print("Maximum attempts reached. Authorities have been alerted!")
+            return
 
-Write a program that simulates a password entry system. The correct password is defined as 12345. The program should keep asking the user to enter the password until they provide the correct one.
-
-### Basic Requirements:
-1. Define the correct password.
-2. Use a while loop to repeatedly ask the user for the password until the correct one is entered.
-3. Output an appropriate message when the correct password is entered.
-
-### Optional Requirements:
-
-Modify the program to include a maximum of 5 password attempts. If the user enters the wrong password, inform them of the remaining attempts. If the maximum number of attempts is reached, inform the user that the authorities have been alerted.
+# Run the password checker
+password_checker()

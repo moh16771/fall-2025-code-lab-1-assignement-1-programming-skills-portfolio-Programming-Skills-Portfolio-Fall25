@@ -1,0 +1,53 @@
+Python 3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+= RESTART: C:/Users/moh16/OneDrive/Desktop/fall-2025-code-lab-1-assignement-1-programming-skills-portfolio-Programming-Skills-Portfolio-Fall25-main/Exercise 06 -Brute Force Attack/exercise 06.py
+Enter password: 12345
+Access granted! Welcome to the system.
+
+
+
+= RESTART: C:\Users\moh16\OneDrive\Desktop\fall-2025-code-lab-1-assignement-1-programming-skills-portfolio-Programming-Skills-Portfolio-Fall25-main\Exercise 01 - Coding is Cool\exercise 01.py
+Coding is Cool
+
+= RESTART: C:/Users/moh16/AppData/Local/Programs/Python/Python313/exercises 07.py
+=== Loop Exercises ===
+
+1. Counting up from 0 to 50:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+2. Counting down from 50 to 0:
+50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 
+
+3. Counting up from 30 to 50:
+30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+4. Counting down from 50 to 10 (decrement by 2):
+50 48 46 44 42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12 10 
+
+5. Counting up from 100 to 200 (increment by 5):
+100 105 110 115 120 125 130 135 140 145 150 155 160 165 170 175 180 185 190 195 200 
+
+>>> 
+= RESTART: C:/Users/moh16/AppData/Local/Programs/Python/Python313/exercises 07.py
+=== Loop Exercises ===
+
+1. Counting up from 0 to 50:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+2. Counting down from 50 to 0:
+50 49 48 47 46 45 44 43 42 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 
+
+3. Counting up from 30 to 50:
+30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 
+
+4. Counting down from 50 to 10 (decrement by 2):
+50 48 46 44 42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12 10 
+
+5. Counting up from 100 to 200 (increment by 5):
+100 105 110 115 120 125 130 135 140 145 150 155 160 165 170 175 180 185 190 195 200 
+
+>>> 
+>>> 1
+1
+>>> 
